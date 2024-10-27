@@ -33,6 +33,13 @@ This project creates a simple To-Do List management system with real-time update
 ## Usage Example
 
 1. Start the Flask server on your main computer.
-2. Access the To-Do List web interface from any browser on the same local network.
-3. Add or update tasks using the web interface.
-4. The Raspberry Pi client will automatically update the task list display and stock price chart every hour.
+3. Access the To-Do List web interface from any browser on the same local network.
+4. Add or update tasks using the web interface.
+5. The Raspberry Pi client will automatically update the task list display and stock price chart every hour.
+
+
+## Screenshot
+
+![To-Do List and Stock Chart Display](HTML%20Front%20end.png)
+![To-Do List and Stock Chart Display](To-Do-List.png)
+
